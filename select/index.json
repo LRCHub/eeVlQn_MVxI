@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Day&Night",
+  "base_artist": "Aqu3ra",
+  "createdAt": "2026-03-26T01:12:56.425243Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Day & Night.",
+      "artist": "Jax Jones, Martin Solveig & Madison Beer",
+      "has_synced": true,
+      "path": "select/01_All_Day_&_Night._Jax_Jones,_Martin_Solveig_&_Madison_Beer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Day & Night",
+      "artist": "Billie Piper",
+      "has_synced": false,
+      "path": "select/02_Day_&_Night_Billie_Piper.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Day & Night",
+      "artist": "Billie Piper",
+      "has_synced": true,
+      "path": "select/03_Day_&_Night_Billie_Piper.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Day & Night",
+      "artist": "Whitney",
+      "has_synced": true,
+      "path": "select/04_Day_&_Night_Whitney.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Day & Night",
+      "artist": "Ok Goodnight",
+      "has_synced": true,
+      "path": "select/05_Day_&_Night_Ok_Goodnight.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Day & Night",
+      "artist": "Dabeull feat. Holybrune",
+      "has_synced": true,
+      "path": "select/06_Day_&_Night_Dabeull_feat._Holybrune.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Day & Night (feat. Holybrune)",
+      "artist": "Dabeull",
+      "has_synced": true,
+      "path": "select/07_Day_&_Night_(feat._Holybrune)_Dabeull.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Day & Night",
+      "artist": "Basshunter",
+      "has_synced": true,
+      "path": "select/08_Day_&_Night_Basshunter.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Day&Night",
+      "artist": "BTOB",
+      "has_synced": true,
+      "path": "select/09_Day&Night_BTOB.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Day & Night",
+      "artist": "Billie Piper",
+      "has_synced": true,
+      "path": "select/10_Day_&_Night_Billie_Piper.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Day & Night (Deepchills Radio)",
+      "artist": "Sonnengruss feat. Matt Kovac",
+      "has_synced": true,
+      "path": "select/11_Day_&_Night_(Deepchills_Radio)_Sonnengruss_feat._Matt_Kovac.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Day & Night (Deep Chills Radio)",
+      "artist": "Sonnengruss",
+      "has_synced": true,
+      "path": "select/12_Day_&_Night_(Deep_Chills_Radio)_Sonnengruss.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Day & Night",
+      "artist": "TCTS",
+      "has_synced": false,
+      "path": "select/13_Day_&_Night_TCTS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Day&Night",
+      "artist": "Aqu3ra",
+      "has_synced": false,
+      "path": "select/pl_01_Day&Night_Aqu3ra.txt"
+    }
+  ]
+}
